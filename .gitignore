@@ -1,0 +1,21 @@
+# Bytecode, cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# Secrets
+.env
+service-account.json
+
+# Temporary images / data
+*.jpg
+*.json
+temp_*.jpg
+trip_plan_*.json
+
+# Streamlit & OS junk
+.streamlit/
+.DS_Store
