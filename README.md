@@ -141,7 +141,7 @@ streamlit run app.py
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="100px;" alt="Unknown Contributor"/>
-      <br /><sub><b>Chethan Kalyan</b></sub>
+      <br /><sub><b>Chetan Kalyan</b></sub>
     </td>
   </tr>
 </table>
